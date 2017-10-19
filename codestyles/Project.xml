@@ -1,0 +1,11 @@
+<code_scheme name="Project">
+  <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
+    <option name="FORCE_QUOTE_STYlE" value="true" />
+    <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
+  </JSCodeStyleSettings>
+  <codeStyleSettings language="JavaScript">
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+  </codeStyleSettings>
+</code_scheme>

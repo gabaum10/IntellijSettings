@@ -1,0 +1,7 @@
+<application>
+  <component name="GitToolBoxAppSettings">
+    <option name="showProjectViewStatusBeforeLocation" value="true" />
+    <option name="projectViewStatusColorHex" value="992e0b" />
+    <option name="projectViewStatusCustomColor" value="true" />
+  </component>
+</application>
