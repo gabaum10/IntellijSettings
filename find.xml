@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>user_nophoto_60x60.</mask>
       <mask>user_nophoto_60x60.p</mask>
@@ -22,18 +23,18 @@
       <mask>.h</mask>
       <mask>.htm</mask>
       <mask>.html</mask>
-      <mask>*.h</mask>
-      <mask>*.htm</mask>
-      <mask>*.html</mask>
       <mask>par*.js</mask>
       <mask>pa*.js</mask>
       <mask>p*.js</mask>
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.htm</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
