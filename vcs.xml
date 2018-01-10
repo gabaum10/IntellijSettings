@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/gabaum10/blueimp-file-upload-expressjs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:GreywallSoftware/soschat.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\GWS" />
+    <option name="cloneParentDir" value="$USER_HOME$/Development/gws" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="MIGRATED" value="true" />
