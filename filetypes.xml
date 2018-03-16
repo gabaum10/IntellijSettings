@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="css" approved="true" type="CSS" />
+      <removed_mapping ext="css" type="CSS" />
       <mapping ext="css" type="Less" />
+      <mapping pattern=".travis.yml.bak" type="YAML" />
     </extensionMap>
   </component>
 </application>
