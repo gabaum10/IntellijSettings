@@ -8,10 +8,10 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.vue</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
