@@ -4,13 +4,11 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="5000" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
-    <option name="FONT_FACE" value="Ubuntu" />
-    <option name="FONT_SCALE" value="1.0" />
-    <option name="FONT_SIZE" value="18" />
+    <option name="FONT_SCALE" value="2.0" />
+    <option name="FONT_SIZE" value="38" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
-    <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
