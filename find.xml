@@ -11,7 +11,7 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
