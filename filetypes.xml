@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml.bak" type="YAML" />
     </extensionMap>
   </component>
