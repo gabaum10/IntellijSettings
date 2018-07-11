@@ -6,12 +6,13 @@
     <mask>*.properties</mask>
     <mask>*.java</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
+    <mask>*.jsp</mask>
+    <mask>*.spec.js</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>
