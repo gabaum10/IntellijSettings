@@ -1,5 +1,8 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <HTMLCodeStyleSettings>
+    <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
+  </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
