@@ -12,8 +12,8 @@
     <mask>*.spec.js</mask>
     <mask>*.css</mask>
     <mask>*.chtml</mask>
-    <mask>*.js</mask>
     <mask>*.vue</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
