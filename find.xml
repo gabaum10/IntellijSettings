@@ -14,7 +14,7 @@
     <mask>*.chtml</mask>
     <mask>*-routes.js</mask>
     <mask>*.vue</mask>
-    <mask>*.js</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
   </component>
 </application>
