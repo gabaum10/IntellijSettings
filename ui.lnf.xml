@@ -4,12 +4,11 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="5000" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
-    <option name="FONT_FACE" value="Dialog.plain" />
-    <option name="FONT_SCALE" value="2.0" />
     <option name="MAX_LOOKUP_LIST_HEIGHT" value="5" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="PRESENTATION_MODE_FONT_SIZE" value="48" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
   </component>
 </application>
