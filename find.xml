@@ -4,6 +4,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="WITH_SUBDIRECTORIES" value="false" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.vue" />
     <mask>*.properties</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -14,8 +15,8 @@
     <mask>*.css</mask>
     <mask>*.chtml</mask>
     <mask>*-routes.js</mask>
-    <mask>*.vue</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.vue</mask>
   </component>
 </application>
