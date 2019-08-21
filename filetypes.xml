@@ -5,8 +5,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="plan-store" type="JavaScript" />
       <mapping ext="chtml" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".travis.yml.bak" type="YAML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
