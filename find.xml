@@ -3,12 +3,12 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>*.properties</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.spec.js</mask>
     <mask>*.css</mask>
     <mask>*.chtml</mask>
     <mask>*-routes.js</mask>
@@ -17,5 +17,6 @@
     <mask>*column.vue</mask>
     <mask>*.js</mask>
     <mask>*.html</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
