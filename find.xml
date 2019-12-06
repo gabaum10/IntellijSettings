@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.pcss" />
     <mask>*.properties</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
@@ -17,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.spec.js</mask>
+    <mask>*.pcss</mask>
   </component>
 </application>
